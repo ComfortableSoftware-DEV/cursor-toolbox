@@ -1,0 +1,1 @@
+adobe-base-14-fonts adobe-source-code-pro-fonts cantarell-fonts fake-ms-fonts fontconfig gnu-free-fonts gsfonts libfontenc libxfont2 nerd-fonts-terminus noto-fonts noto-fonts-extra python-babelfont python-fontmath python-fontparts python-fontpens python-fonttools xorg-fonts-encodings xorg-font-util xorg-mkfontscale

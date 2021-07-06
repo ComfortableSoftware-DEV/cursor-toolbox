@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    sodipodi:docname="template-black.svg"
-   inkscape:version="0.91 r13725">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
   <metadata
      id="metadata344">
     <rdf:RDF>
@@ -75,7 +75,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="1.2"
      inkscape:cx="336.5"
      inkscape:cy="254.05691"
      inkscape:document-units="px"
@@ -88,7 +88,8 @@
      fit-margin-left="16"
      fit-margin-right="16"
      fit-margin-top="160"
-     showguides="false">
+     showguides="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid4136"
@@ -2004,20 +2005,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:13.75px;line-height:110.00000238%"
+       style="line-height:0%"
        x="94"
        y="446.70001"
-       id="text4394"
-       sodipodi:linespacing="110%"><tspan
+       id="text4394"><tspan
          sodipodi:role="line"
          id="tspan4396"
          x="94"
          y="446.70001"
-         style="font-style:normal;font-weight:normal;font-family:'Source Sans Pro', 'Open Sans', Segoe, sans-serif;-inkscape-font-specification:'Source Sans Pro, Open Sans, Segoe, sans-serif'">cz-Viator (Black) by G. Großmann, 2018</tspan><tspan
+         style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:1.1;font-family:'Source Sans Pro', 'Open Sans', Segoe, sans-serif;-inkscape-font-specification:'Source Sans Pro, Open Sans, Segoe, sans-serif'">cz-Viator (Black) by G. Großmann, 2018</tspan><tspan
          sodipodi:role="line"
          x="94"
          y="461.82501"
          id="tspan4398"
-         style="font-style:normal;font-weight:normal;font-family:'Source Sans Pro', 'Open Sans', Segoe, sans-serif;-inkscape-font-specification:'Source Sans Pro, Open Sans, Segoe, sans-serif'">→ github.com/charakterziffer/</tspan></text>
+         style="font-style:normal;font-weight:normal;font-size:13.75px;line-height:1.1;font-family:'Source Sans Pro', 'Open Sans', Segoe, sans-serif;-inkscape-font-specification:'Source Sans Pro, Open Sans, Segoe, sans-serif'">→ github.com/charakterziffer/</tspan></text>
   </g>
 </svg>
